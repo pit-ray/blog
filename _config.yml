@@ -1,0 +1,8 @@
+remote_theme: ttskch/jekyll-ttkch-theme
+url: https://pit-ray.github.io
+baseurl: /blog
+title: pit-ray's blog
+description: Notes on Development
+avatar:
+favicon:
+language: ja
